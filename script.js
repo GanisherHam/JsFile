@@ -15,7 +15,3 @@ function removeActive(array) {
         item.classList.remove(`active`)
     })
 }
-
-// function addActive() {
-
-// }
